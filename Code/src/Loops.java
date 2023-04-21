@@ -52,9 +52,30 @@ public class Loops {
          */
 
         //now, let's convert the above program of printing the numbers 'N' times.
+//        int num = 1; //set a debugging point here for while loop execution operation
+//        System.out.println("Executed with while loop");
+//        while(num<=5)
+//        {
+//            System.out.println(num);
+//            num+=1;
+//        }
+
 
 //
-        //
+        //do while loop
+
+        /*
+        syntax for do while loop:
+        do {
+        } while(condition);
+
+         */
+        int n = 1; //set a debugging point here for the do while loop operation flow execution.
+        System.out.println("Executed with do while loop");
+        do {
+            System.out.println(n);
+            n++;
+        } while(n<=5);
 
 
 
