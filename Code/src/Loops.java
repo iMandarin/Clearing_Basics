@@ -31,14 +31,31 @@ public class Loops {
 //        }
 
         //print numbers from 1 to n
-        Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
-        for (int i = 0; i <= n; i++)
-        {
+//        Scanner in = new Scanner(System.in);
+//        int n = in.nextInt();
+        //for (int i = 0; i <= n; i++)
+        //{
          //   System.out.println(i);
             //suppose if I want to print the "Hello World!" N times then,
-            System.out.println("Hello World!");
+
+            //System.out.println("Hello World!");
+        //}
+
+        //Now, We will move forward with the While Loop
+
+        /*
+        Syntax of while loop:
+        While(condition)
+        {
+        //body
         }
+         */
+
+        //now, let's convert the above program of printing the numbers 'N' times.
+
+//
+        //
+
 
 
     }
