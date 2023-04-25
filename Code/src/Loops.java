@@ -70,13 +70,17 @@ public class Loops {
         } while(condition);
 
          */
-        int n = 1; //set a debugging point here for the do while loop operation flow execution.
-        System.out.println("Executed with do while loop");
-        do {
-            System.out.println(n);
-            n++;
-        } while(n<=5);
-
+//        int n = 1; //set a debugging point here for the do while loop operation flow execution.
+//        System.out.println("Executed with do while loop");
+//        do {
+//            System.out.println(n);
+//            n++;
+//        } while(n<=5);
+// in do while loop, the loop will execute at-least once even if the condition is not true.
+//        int num = 1; //set a debugging point here for the do while loop operation flow execution.
+//        do {
+//            System.out.println("Hello world!");
+//        } while (num!=1);
 
 
     }
