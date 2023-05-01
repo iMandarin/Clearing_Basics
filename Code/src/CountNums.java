@@ -3,6 +3,8 @@ public class CountNums
     public static void main(String[] args)
     {
         int n = 45536;
+        //checking for non-available numbers
+        //int n = 234;
 
         int count  = 0;
         while (n>0)
